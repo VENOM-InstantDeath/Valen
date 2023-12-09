@@ -70,5 +70,6 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-theme: leap-day
+#theme: leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
 description: "Dedicada a Valen"
