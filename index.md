@@ -1,7 +1,6 @@
-# Zona de práctica
-<hr>
-<i>Dedicada a Valen.</i>
-
+---
+layout: index
+---
 ## Índice de ejercicios
 Los siguientes ejercicios están ordenados del más fácil al más difícil.
 - [Números palíndromes](e1.html)
